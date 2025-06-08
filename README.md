@@ -1,6 +1,5 @@
 <h1 align="center">Electric Vehicle Analysis Project – Power BI</h1>
 <p align="center">
-<img src="Image.png">
 
 
 ## Project Overview 
@@ -42,3 +41,7 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
    • State <br>
    • Vehicle Make (brand) <br>
 
+### Dashboard Images
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> <br>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600"> <br>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
