@@ -41,9 +41,4 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
    • Model Year <br>
    • State <br>
    • Vehicle Make (brand) <br>
-testing_set.csv: The testing dataset for which house prices need to be predicted.<br>
 
-#### Libraries used<br>
-• pandas<br>
-• numpy<br>
-• scikit-learn<br>
