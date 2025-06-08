@@ -42,7 +42,7 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
    • Vehicle Make (brand) <br>
 
 ### Dashboard Images
-<img src="image/img1.jpg" alt="image 1" width="500" height="600"> <br>
-<img src="image/img2.jpg" alt="image 2" width="500" height="600"> <br>
-<img src="image/img3.jpg" alt="image 3" width="500" height="600"> <br>
-<img src="image/img4.jpg" alt="image 4" width="500" height="600"> 
+<img src="images/img1.jpg" alt="image 1" width="500" height="600"> <br>
+<img src="images/img2.jpg" alt="image 2" width="500" height="600"> <br>
+<img src="images/img3.jpg" alt="image 3" width="500" height="600"> <br>
+<img src="images/img4.jpg" alt="image 4" width="500" height="600"> 
