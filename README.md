@@ -43,6 +43,9 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
 
 ### Dashboard Images
 <img src="images/img1.png" alt="image 1" width="1000" height="600"> <br>
+
 <img src="images/img2.png" alt="image 2" width="1000" height="600"> <br>
+
 <img src="images/img3.png" alt="image 3" width="1000" height="600"> <br>
+
 <img src="images/img4.png" alt="image 4" width="1000" height="600"> 
