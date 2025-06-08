@@ -28,7 +28,7 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
    • Orange: Not eligible <br>
 
 
-#### 4. KPIs (Key Performance Indicators):<br>
+4. KPIs (Key Performance Indicators):<br>
 • FKPI cards displaying:<br>
    • Average vehicle range <br>
    • Total number of vehicles <br>
@@ -36,7 +36,7 @@ This repository contains my Electric Vehicle (EV) Analysis project created using
    • Number of unique makes <br>
 
 
-#### 5. Interactive Slicers<br>
+5. Interactive Slicers<br>
 • Added slicers to filter and explore the data by:<br>
    • Model Year <br>
    • State <br>
